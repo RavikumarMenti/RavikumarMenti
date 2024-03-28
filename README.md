@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-m-6327a421a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasanya.webdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ravikumar.m.9095@gmail.com)
 
-Feel free to explore my repository 😊!!
+Feel free to explore my repository !!
