@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - [NxT Trendz](https://reactjsmini.ccbp.tech/login):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanya-shankar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-m-6327a421a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prasanya.webdev@gmail.com)
 
 Feel free to explore my repository 😊!!
