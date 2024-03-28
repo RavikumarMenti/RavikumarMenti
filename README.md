@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 
 ## Projects
-- [Netflix Clone](https://reactjsmini.ccbp.tech/login):  A Netflix Clone App developed with user authentication. Username: **saira**,  Password: **princess@9**
 - [NxT Trendz](https://reactjsmini.ccbp.tech/login):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
 
 ## Let's Connect!
