@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - 💼 Full Stack Developer
 - 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
 - ✨ Completed Full Stack Development at NxT Wave
-- 🎓 Pursuing Bachelor's in English Literature and Language
+- 🎓 I completed my B.Tech
 
 ## Tools and Languages
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
